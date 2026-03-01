@@ -7,11 +7,11 @@ An interactive Power BI dashboard designed to analyze Adidas sales performance a
 This project demonstrates data modeling, DAX calculations, and business intelligence visualization techniques using Microsoft Power BI.
 
 🎯 Project Objectives
-- Analyze overall sales performance
-- Track revenue, profit, and units sold
-- Identify top-performing products and regions
-- Monitor monthly and yearly sales trends
-- Provide interactive insights for decision-making
+- Analyze overall sales performance.
+- Track revenue, profit, and units sold.
+- Identify top-performing products and regions.
+- Monitor monthly and yearly sales trends.
+- Provide interactive insights for decision-making.
 
 📊 Key Performance Indicators (KPIs)
 - 💰 Total Revenue
